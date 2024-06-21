@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Gesture Controlled Virtual Mouse**
 
-- 🌱 I’m currently learning **C++ and Python**
+- 🌱 I’m currently learning **C++**
 
 - 📝 I regularly write articles on [kazulives.blogspot.com](kazulives.blogspot.com)
 
