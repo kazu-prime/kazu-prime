@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kumarjeet Kar.</h1>
-<h3 align="center">Game Dev / Web Dev </h3>
+<h3 align="center">Game Dev | Web Dev </h3>
 
 - 🔭 I’m currently working on **Gesture Controlled Virtual Mouse**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C**
 
 - 📝 I regularly write articles on [kazulives.blogspot.com](kazulives.blogspot.com)
 
