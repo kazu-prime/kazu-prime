@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kumarjeet Kar.</h1>
-<h3 align="center"> Gameplay Programmer | Front-End Web Developer | AI Developer</h3>
+<h3 align="center"> Unity Gameplay Programmer | Front-End Web Developer </h3>
 
 - 🔭 I’m currently working on **Gesture Controlled Virtual Mouse**
 
