@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kumarjeet Kar.</h1>
-<h3 align="center">Game Dev | Web Dev </h3>
+<h3 align="center"> Gameplay Programmer | Front-End Web Developer | AI Developer</h3>
 
 - 🔭 I’m currently working on **Gesture Controlled Virtual Mouse**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Python**
 
 - 📝 I regularly write articles on [kazulives.blogspot.com](kazulives.blogspot.com)
 
 - 📫 How to reach me **karkumarjeet06@gmail.com**
-
-- ⚡ Fun fact **"Programming is like sex: one mistake and you have to support it for the rest of your life."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
