@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kumarjeet Kar.</h1>
-<h3 align="center"> Unity Gameplay Programmer | Front-End Web Developer </h3>
+<h3 align="center"> Machine Learning Engineer Trainee | Software Developer </h3>
 
-- 🔭 I’m currently working on **Gesture Controlled Virtual Mouse**
+- 🔭 I’m currently working on **Developer Community Web Application** (Check out for more info)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 Experimenting with ideas for **practical developer utilities**
 
 - 📝 I regularly write articles on [kazulives.blogspot.com](kazulives.blogspot.com)
 
