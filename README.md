@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kumarjeet Kar.</h1>
-<h3 align="center"> Machine Learning Engineer Trainee | Software Developer </h3>
+<h3 align="center"> Machine Learning Engineer Trainee | Game Developer </h3>
 
 - 🔭 I’m currently working on **Developer Community Web Application** (Check out for more info)
 
