@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=kazu-prime">
-    <img src="https://images.steamusercontent.com/ugc/404560514029526862/5087D8C320D3FE60CF0C1BE6DB87B1155456002C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="kazu-prime's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=kazu-prime&label=Profile%20views&color=00FFFF&style=flat-square" alt="kazu-prime's profile views" />
   </a>
 </p>
 
