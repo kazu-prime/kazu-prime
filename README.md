@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <img src="https://images.steamusercontent.com/ugc/404560514029526862/5087D8C320D3FE60CF0C1BE6DB87B1155456002C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Banner" width="70%" />
 </p>
 
 ## 📌 About Me
