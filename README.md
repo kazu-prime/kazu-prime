@@ -11,7 +11,7 @@
 ## 📌 About Me
 - 🚀 Currently learning Drone Engineering and Embedded Systems
 - 💻 Building a Developer Community Web Application
-- 🎮 Interested in Game Development and AI
+- 🎮 Working on a 3D Game on Unity 3D
 
 
 ## 🧠 My Focus Areas
