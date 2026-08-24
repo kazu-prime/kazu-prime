@@ -79,19 +79,16 @@
 
 ---
 
-## 🚀 Projects
+## 🚧 What I'm Building
 
-### 🎮 Game Development
+🎮 **3D Story-Driven Indie Game**  
+Currently developing a 3D story-driven game in **Unity**, with a focus on gameplay programming and interactive systems.
 
-> Building interactive experiences with Unity, Unreal Engine and 3D tools.
+🤖 **AI + Game Development**  
+Exploring ways to integrate **AI into games** and create more dynamic gameplay experiences.
 
-### 💻 Software Development
-
-> Developing projects to strengthen my programming, backend and problem-solving skills.
-
-### 🤖 Embedded Systems
-
-> Exploring Arduino, C/C++ and hardware-software interaction.
+⚙️ Embedded Systems & Drones
+> Exploring **C/C++, Arduino and drone technology**, with a focus on hardware-software interaction and embedded programming.
 
 ---
 
