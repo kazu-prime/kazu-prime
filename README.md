@@ -1,13 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Kumarjeet%20Kar&section=header&reversal=false&fontColor=FFF7F7&fontSize=67&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%20Unity%20Gameplay%20Programmer&descAlignY=68&descAlign=0&descSize=25" width="100%" />
 </div>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=kazu-prime">
-    <img src="https://komarev.com/ghpvc/?username=kazu-prime&label=Profile%20views&color=00FFFF&style=flat-square" alt="Kumarjeet's profile views" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://images.steamusercontent.com/ugc/404560514029526862/5087D8C320D3FE60CF0C1BE6DB87B1155456002C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Banner" width="70%" />
 </p>
@@ -126,3 +119,9 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/cd/df/90/cddf900fe24300e30e162e4d1cbf0d7e.gif" alt="Bottom Line" width="60%" />
 </div>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=kazu-prime">
+    <img src="https://komarev.com/ghpvc/?username=kazu-prime&label=Profile%20views&color=00FFFF&style=flat-square" alt="Kumarjeet's profile views" />
+  </a>
+</p>
