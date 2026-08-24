@@ -13,8 +13,8 @@
 * 🎓 Computer Science Engineering student
 * 🚀 Currently exploring **Software Development, Game Development & Embedded Systems**
 * 💻 Building projects to strengthen my development skills
-* 🎮 Working with **Unity 3D & Unreal Engine**
-* 🧠 Currently improving my **C, C++, C# & Python** skills
+* 🎮 Working with **Unity 3D**
+* 🧠 Currently focused on **C/C++**, while exploring **C# and Python**
 * 🏆 Interested in **Hackathons, DSA & real-world problem solving**
 
 ---
