@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://images.steamusercontent.com/ugc/404560514029526862/5087D8C320D3FE60CF0C1BE6DB87B1155456002C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Banner" width="60%" />
+<img src="https://images.steamusercontent.com/ugc/404560514029526862/5087D8C320D3FE60CF0C1BE6DB87B1155456002C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Banner" width="70%" />
 
 ## 📌 About Me
 
