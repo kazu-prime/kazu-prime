@@ -40,32 +40,17 @@
 ### 🎮 Game Development & Graphics
 
 <p align="left">
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="36" height="36" alt="Unity" title="Unity" />
-  </a>
-  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" width="36" height="36" alt="Unreal Engine" title="Unreal Engine" />
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="36" height="36" alt="Blender" title="Blender" />
-  </a>
-  <a href="https://www.autodesk.com/products/maya/overview" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/autodesk-maya-1.svg" width="36" height="36" alt="Autodesk Maya" title="Autodesk Maya" />
-  </a>
-  <a href="https://www.opengl.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" width="36" height="36" alt="OpenGL" title="OpenGL" />
-  </a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/unity-colored.svg" alt="Unity" title="Unity" width="60" height="60" /></a>
+<a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/unrealengine-colored.svg" alt="Unreal Engine" title="Unreal Engine" width="60" height="60" /></a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="60" height="60" /></a>
+<a href="https://www.opengl.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/opengl-colored.svg" alt="OpenGL" title="OpenGL" width="60" height="60" /></a>
 </p>
 
 ### 🛠️ Tools & Platforms
 
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git" />
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="36" height="36" alt="Arduino" title="Arduino" />
-  </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="60" height="60" /></a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="60" height="60" /></a>
 </p>
 
 ---
