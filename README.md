@@ -8,9 +8,9 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/cd/df/90/cddf900fe24300e30e162e4d1cbf0d7e.gif" alt="Bottom Line" width="60%" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
 ## 📌 About Me
 
