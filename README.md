@@ -62,9 +62,11 @@
   <a href="https://github.com/kazu-prime">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kazu-prime&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="Kumarjeet's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=kazu-prime&theme=monokai&hide_border=true&cache_seconds=86400" alt="Kumarjeet's GitHub Streak" width="49%" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kazu-prime&theme=monokai&hide_border=true&cache_seconds=86400" alt="Kumarjeet's GitHub Streak" />
+</p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=kazu-prime&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Kumarjeet's GitHub Trophies" />
 </p>
