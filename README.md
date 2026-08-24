@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Kumarjeet%20Kar&section=header&reversal=false&fontColor=FFF7F7&fontSize=60&animation=fadeIn&desc=Computer%Science%20Student%20|%20Unity%20Gameplay%20%20Programmer&descAlignY=64&descAlign=0
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Kumarjeet%20Kar&section=header&reversal=false&fontColor=FFF7F7&fontSize=60&animation=fadeIn&desc=Computer%Science%20Student%20|%20Unity%20Gameplay%20%20Programmer&descAlignY=64&descAlign=0">
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=kazu-prime">
