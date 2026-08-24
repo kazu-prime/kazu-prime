@@ -71,6 +71,11 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=kazu-prime&theme=monokai&radius=10" alt="Kumarjeet's Activity Graph" />
 </p>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=kazu-prime">
+    <img src="https://komarev.com/ghpvc/?username=kazu-prime&label=Profile%20views&color=00FFFF&style=flat-square" alt="Kumarjeet's profile views" />
+  </a>
+</p>
 
 ---
 
@@ -120,8 +125,3 @@
   <img src="https://i.pinimg.com/originals/cd/df/90/cddf900fe24300e30e162e4d1cbf0d7e.gif" alt="Bottom Line" width="60%" />
 </div>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=kazu-prime">
-    <img src="https://komarev.com/ghpvc/?username=kazu-prime&label=Profile%20views&color=00FFFF&style=flat-square" alt="Kumarjeet's profile views" />
-  </a>
-</p>
