@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" width="600" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Kumarjeet%20Kar&section=header&reversal=false&fontColor=FFF7F7&fontSize=67&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%20Unity%20Gameplay%20Programmer&descAlignY=68&descAlign=0&descSize=25" width="100%" />
 </div>
 
 ## 📌 About Me
