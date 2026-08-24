@@ -87,7 +87,7 @@ Currently developing a 3D story-driven game in **Unity**, with a focus on gamepl
 🤖 **AI + Game Development**  
 Exploring ways to integrate **AI into games** and create more dynamic gameplay experiences.
 
-⚙️ Embedded Systems & Drones
+⚙️ **Embedded Systems & Drones**
 Exploring **C/C++, Arduino and drone technology**, with a focus on hardware-software interaction and embedded programming.
 
 ---
