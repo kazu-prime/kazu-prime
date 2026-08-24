@@ -1,118 +1,125 @@
-# 👋 Hey, I'm Kumarjeet Kar
-
-### 💻 CSE Student | Developer | Game Dev Enthusiast | Builder
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Kumarjeet%20Kar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Game%20Developer%20%7C%20Builder&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;C%2FC%2B%2B+%7C+Python+%7C+C%23+%7C+JavaScript;Building+Projects%2C+Learning+Every+Day;Future+Software+Engineer+%F0%9F%9A%80" />
+  <a href="https://komarev.com/ghpvc/?username=kazu-prime">
+    <img src="https://komarev.com/ghpvc/?username=kazu-prime&label=Profile%20views&color=00FFFF&style=flat-square" alt="Kumarjeet's profile views" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" />
-  </a>
+<img src="https://images.steamusercontent.com/ugc/404560514029526862/5087D8C320D3FE60CF0C1BE6DB87B1155456002C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Banner" width="100%" />
+
+## 📌 About Me
+
+* 🎓 Computer Science Engineering student
+* 🚀 Currently exploring **Software Development, Game Development & Embedded Systems**
+* 💻 Building projects to strengthen my development skills
+* 🎮 Working with **Unity 3D & Unreal Engine**
+* 🧠 Currently improving my **C, C++, C# & Python** skills
+* 🏆 Interested in **Hackathons, DSA & real-world problem solving**
+
+---
+
+## 🧠 My Focus Areas
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+</p>
+
+### ⚙️ Backend & Databases
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="50" height="50"/>
+</p>
+
+### 🎮 Game Development & Graphics
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="OpenGL" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/autodesk-maya-1.svg" alt="Autodesk Maya" width="45" height="45"/>
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="55" height="55"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 📊 GitHub Stats & Trophies
 
-I'm a Computer Science Engineering student who enjoys turning ideas into working projects.
+<p align="center">
+  <a href="https://github.com/kazu-prime">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kazu-prime&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="Kumarjeet's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=kazu-prime&theme=monokai&hide_border=true&cache_seconds=86400" alt="Kumarjeet's GitHub Streak" width="49%" />
+</p>
 
-- 🎓 Currently pursuing **B.Tech in Computer Science Engineering**
-- 💻 Learning **DSA, C, C++, Python, C#, JavaScript & React**
-- 🎮 Exploring **Unity & Game Development**
-- 🏆 Interested in **Hackathons & real-world problem solving**
-- 🧠 Currently improving my **Data Structures & Algorithms**
-- 🔨 I enjoy building things rather than just watching tutorials
-- 🌱 Always learning something new
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=kazu-prime&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Kumarjeet's GitHub Trophies" />
+</p>
 
-> **"Learn → Build → Break → Fix → Repeat."**
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=kazu-prime&theme=monokai&radius=10" alt="Kumarjeet's Activity Graph" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-</p>
-
-### 🌐 Web Development
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
-</p>
+## 🚀 Projects
 
 ### 🎮 Game Development
 
+> Building interactive experiences with Unity, Unreal Engine and 3D tools.
+
+### 💻 Software Development
+
+> Developing projects to strengthen my programming, backend and problem-solving skills.
+
+### 🤖 Embedded Systems
+
+> Exploring Arduino, C/C++ and hardware-software interaction.
+
+---
+
+## 🔗 Connect with Me
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" />
+  <a href="https://www.linkedin.com/in/kumarjeet-kar-63b12525b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
+
+  <a href="https://x.com/KarKumarjeet" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
+
+  <a href="mailto:kazudev@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
+
+  <a href="https://kazudev.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
 </p>
 
-### 🧰 Tools
+---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
----
-
-## 🔥 Featured Projects
-
-### 🗺️ XploraGO
-> A location-based project focused on exploring and interacting with the real world through technology.
-
-**Tech:** `React` `JavaScript` `Node.js` `Maps API`
-
-🔗 [View Repository](https://github.com/YOUR_USERNAME/XploraGO)
-
----
-
-### 🎮 Floor Is Water
-
-> A game prototype built in Unity featuring a rising-water survival mechanic, parkour movement and environmental challenges.
-
-**Tech:** `Unity` `C#`
-
-🔗 [View Repository](https://github.com/YOUR_USERNAME/Floor-Is-Water)
-
----
-
-### 🧠 DSA Journey
-
-> My collection of Data Structures & Algorithms implementations and problem-solving practice.
-
-**Topics:**
-
-`Arrays` `Linked Lists` `Stacks` `Queues` `Trees` `Recursion` `Searching` `Sorting`
-
-**Languages:** `C` `C++`
-
-🔗 [View Repository](https://github.com/YOUR_USERNAME/DSA)
-
----
-
-## 📚 Currently Learning
-
-```text
-C / C++          ███████████████░░░  80%
-Python           ████████████░░░░░░░  65%
-DSA              ███████████░░░░░░░░  60%
-C# / Unity       ██████████░░░░░░░░░  55%
-JavaScript       █████████░░░░░░░░░░  50%
-React            ███████░░░░░░░░░░░░  40%
+<div align="center">
+  <img src="https://i.pinimg.com/originals/cd/df/90/cddf900fe24300e30e162e4d1cbf0d7e.gif" alt="Bottom Line" width="100%" />
+</div>
