@@ -11,10 +11,10 @@
 ## 📌 About Me
 
 * 🎓 Computer Science Engineering student
-* 🚀 Currently exploring **Software Development, Game Development & Embedded Systems**
-* 💻 Building projects to strengthen my development skills
-* 🎮 Working with **Unity 3D**
-* 🧠 Currently focused on **C/C++**, while exploring **C# and Python**
+* 🤖 Exploring **AI, Game Development & Embedded Systems**
+* 🎮 Currently developing a **3D story-driven indie game with Unity**
+* 🧠 Working with **C/C++**, while expanding into **C#, Python & AI**
+* ⚙️ Building projects involving **gameplay systems, AI & hardware-software interaction**
 * 🏆 Interested in **Hackathons, DSA & real-world problem solving**
 
 ---
